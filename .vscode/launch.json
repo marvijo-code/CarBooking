@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "name": "C#: Web",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}\\src\\Web\\Web.csproj",
+            "launchConfigurationId": "TargetFramework=;CarBooking.Web"
+        }
+    ]
+}
